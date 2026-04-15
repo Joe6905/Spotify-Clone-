@@ -1,8 +1,8 @@
-# Joi Music 🎵
+![Gemini_Generated_Image_bqsbdxbqsbdxbqsb.png](assets/images/1776254517893-Gemini_Generated_Image_bqsbdxbqsbdxbqsb.png)# Joi Music ðµ
 
 A creative, dark-purple themed Spotify web clone built with React and TypeScript. Joi Music offers a polished, immersive experience for music lovers, focusing on speed, accessibility, and impressive design.
 
-## ✨ Features
+## â¨ Features
 
 - **Creative Branding**: Unique "Joi Music" identity with a custom dark-purple aesthetic.
 - **Token-Based Authentication**: Access the full Spotify library using a temporary access token.
@@ -12,7 +12,7 @@ A creative, dark-purple themed Spotify web clone built with React and TypeScript
 - **Motion UI**: Smooth animations and transitions powered by `motion`.
 - **Responsive Design**: Optimized for a great experience on any device.
 
-## 🚀 Tech Stack
+## ð Tech Stack
 
 - **Frontend**: React 19, TypeScript
 - **Styling**: Tailwind CSS (v4)
@@ -21,7 +21,7 @@ A creative, dark-purple themed Spotify web clone built with React and TypeScript
 - **API**: Spotify Web API (via `spotify-web-api-js`)
 - **Player**: `react-spotify-web-playback`
 
-## 🛠️ Getting Started
+## ð ï¸ Getting Started
 
 ### Prerequisites
 
@@ -42,13 +42,13 @@ To use Joi Music, you need a **Spotify Premium** account and a temporary **Acces
 3.  Click **"Connect to Joi"**.
 4.  Start searching and playing your favorite tracks!
 
-## 🎨 Design Philosophy
+## ð¨ Design Philosophy
 
 Joi Music follows a "Mood First" design approach:
 - **Color Palette**: Deep purples (`#0a0118`, `#1a0b2e`) paired with vibrant brand accents (`#8b5cf6`).
 - **Typography**: Clean, modern sans-serif for high legibility.
 - **Interactions**: Subtle hover effects and staggered entrances to guide user attention.
 
-## 📄 License
+## ð License
 
 This project is licensed under the Apache-2.0 License.
